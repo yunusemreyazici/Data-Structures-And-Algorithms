@@ -26,8 +26,10 @@ public class ListNode{
     private ListNode next;
 }
 ```
+
 So if see the graphical representation of it looks something like this 
 ![](./img/1.png)
+#
 > the ListNode is having a data  and o the next node in the list 
 - We will be createing the next lesson  a list node with the int type data 
 - You can also provide any generic type data which you want!
