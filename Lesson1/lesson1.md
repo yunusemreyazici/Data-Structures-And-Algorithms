@@ -34,6 +34,7 @@ So if see the graphical representation of it looks something like this
 
 - so here you can see that how we actually represent a Singly Linked List
 ![](./img/3.png)
+#
 - Inside SLI first we have this node which has a data and a pointer to the next node in the list
 - And this chain goes to the last node because last node points to null.
 - In order to hold this complate list we usually create a list node by name head
