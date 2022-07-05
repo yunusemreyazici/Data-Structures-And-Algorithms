@@ -26,8 +26,7 @@ public class ListNode{
     private ListNode next;
 }
 ```
-#
-So if see the graphical representation of it looks something like this 
+# So if see the graphical representation of it looks something like this 
 ![](./img/1.png)
 #
  the ListNode is having a data  and o the next node in the list 
