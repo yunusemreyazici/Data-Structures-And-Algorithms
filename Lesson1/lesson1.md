@@ -1,5 +1,5 @@
-#
-- We first talk about the Singly Linked List 
+
+## We first talk about the Singly Linked List 
 #
 Singly linked List is a data structure used for storing collection of nodes and has following properties
 - It contains sequence of nodes
