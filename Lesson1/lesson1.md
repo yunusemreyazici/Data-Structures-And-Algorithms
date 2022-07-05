@@ -1,6 +1,5 @@
 
-## We first talk about the Singly Linked List 
-#
+## We first talk about the Singly Linked List
 Singly linked List is a data structure used for storing collection of nodes and has following properties
 - It contains sequence of nodes
 - A node has data and reference to next node in a list.
@@ -26,7 +25,7 @@ public class ListNode{
     private ListNode next;
 }
 ```
-# So if see the graphical representation of it looks something like this 
+#### So if see the graphical representation of it looks something like this 
 ![](./img/1.png)
 #
  the ListNode is having a data  and o the next node in the list 
