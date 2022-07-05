@@ -1,6 +1,5 @@
-#
-- We first talk about the Singly Linked List 
-#
+
+## We first talk about the Singly Linked List
 Singly linked List is a data structure used for storing collection of nodes and has following properties
 - It contains sequence of nodes
 - A node has data and reference to next node in a list.
@@ -26,17 +25,13 @@ public class ListNode{
     private ListNode next;
 }
 ```
-
-So if see the graphical representation of it looks something like this 
+#### So if see the graphical representation of it looks something like this 
 ![](./img/1.png)
-#
-> the ListNode is having a data  and o the next node in the list 
+- the ListNode is having a data  and o the next node in the list 
 - We will be createing the next lesson  a list node with the int type data 
 - You can also provide any generic type data which you want!
-
-- so here you can see that how we actually represent a Singly Linked List
+#### so here you can see that how we actually represent a Singly Linked List
 ![](./img/3.png)
-#
 - Inside SLI first we have this node which has a data and a pointer to the next node in the list
 - And this chain goes to the last node because last node points to null.
 - In order to hold this complate list we usually create a list node by name head
