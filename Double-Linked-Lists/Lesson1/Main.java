@@ -12,7 +12,7 @@ public class Main {
         // dll.insertFirst(10);
         dll.displayForward();
         dll.deleteFirst();
-        dll.deleteFirst();
+        dll.deleteLast();
         // dll.displayBackward();
         dll.displayForward();
     }
